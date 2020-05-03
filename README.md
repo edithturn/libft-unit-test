@@ -38,6 +38,6 @@ To get it work on linux:
 ![Unit_Testing](https://user-images.githubusercontent.com/6877923/73291511-95454700-4200-11ea-8a62-bd9f1221e283.png)
 
 
-### Benchmark mode
+### Benchmark mode 
 ![Benchmarking](https://user-images.githubusercontent.com/6877923/73292576-91b2bf80-4202-11ea-8e33-2a1fc22bc2cc.png)
 
