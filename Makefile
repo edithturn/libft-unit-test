@@ -15,7 +15,7 @@
 #################
 
 #	Libft Makefile path
-LIBFTDIR	=	/Users/travis/build/edithturn/42-unit-test/libft
+LIBFTDIR	=	/Users/travis/build/edithturn/libft-unit-test/libft
 
 #	Sources
 SRCDIR		=	./
