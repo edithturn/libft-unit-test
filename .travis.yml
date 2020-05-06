@@ -14,7 +14,7 @@ before_install:
 - git fetch
 
 before_script: 
-- git clone https://github.com/edithturn/42-silicon-valley-libft.git libft
+- git clone https://github.com/edithturn/42-libft-functions.git libft
 - pwd
 - ls
 script: bash run_test_t.sh
